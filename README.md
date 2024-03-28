@@ -1,6 +1,6 @@
 Name: 
 
-PDF chatbot with LangChain
+PDF chatbot using Open AI
 
 Description:
 
@@ -20,7 +20,9 @@ tiktoken- Potentially a token related to the TikTok platform, possibly used for 
 
 langchainhub- Probably a central hub or platform for language-related blockchain projects, serving as a nexus for development, collaboration, or exchange within the language technology space.
 
+Install requirements:
 
+Pip install -r requirements.txt
 
 Usage:
 
