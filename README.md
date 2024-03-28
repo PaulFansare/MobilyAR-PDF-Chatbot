@@ -1,12 +1,15 @@
-Name: 
-
 PDF chatbot using Open AI
 
-Description:
+Overview:
+=========
 
 This project demonstrates how to use LangChain to build a document retrieval system for the given doc. It utilizes a pre-trained language model (LLM) to answer questions about the document.
 
+Getting started
+===============
+
 Installation:
+=============
 
 pypdf- A Python library for working with PDF files, offering functionalities such as reading, writing, and manipulating PDF documents.
 
@@ -21,10 +24,12 @@ tiktoken- Potentially a token related to the TikTok platform, possibly used for 
 langchainhub- Probably a central hub or platform for language-related blockchain projects, serving as a nexus for development, collaboration, or exchange within the language technology space.
 
 Install requirements:
+=====================
 
 Pip install -r requirements.txt
 
 Usage:
+======
 
 Make sure you have an OpenAI API key (https://openai.com/pricing).
 
